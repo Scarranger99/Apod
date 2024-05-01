@@ -1,7 +1,7 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
 
-!stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div:nth-child(2)
+stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div:nth-child(1)
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__DgLIM > div > .active.sticky-outer-wrapper > .sticky-inner-wrapper
 stocktwits.com###insticator-iframe
 stocktwits.com##.REGULAR.embedid-0231acdc-223d-4ee3-b401-0eda627593bc.flex-col.flex.Insticator_container__1SPhe > .leading-\[16px\].text-xs.text-tertiary-text.text-center.mx-auto.tabletSm-down\|max-w-\[300px\].Disclosure_disclosureCompact__IqWB8
