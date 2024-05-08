@@ -1,6 +1,6 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
-! Version: 5
+! Version: 6
 
 stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div:nth-child(2):has('3rd Party Ad. Not an offer or recommendation by Stocktwits. See disclosure here or remove ads.')
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__DgLIM > div > .active.sticky-outer-wrapper > .sticky-inner-wrapper
@@ -13,6 +13,7 @@ stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__0dwk5 > div
 stocktwits.com##.min-w-\[82px\]
 stocktwits.com##.min-h-\[304px\].grid.SymbolPageHero_mediaContainer__ht6Wg.SymbolPageHero_fullViewContainer__4dxkj
 stocktwits.com##.ad_banner_top-0
+stocktwits.com##.my-3.leading-\[14px\].text-\[13px\].text-tertiary-text.CommunitySentiment_disclaimer__tLlAS
 
 ! 2024-04-20 https://omnipart.eurocarparts.com
 ||omnipart.eurocarparts.com/assets/images/tp-how-to.png$image
