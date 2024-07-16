@@ -1,9 +1,12 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
-! Version: 6
+! Version: 7
 
 stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div:nth-child(2):has('3rd Party Ad. Not an offer or recommendation by Stocktwits. See disclosure here or remove ads.')
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__DgLIM > div > .active.sticky-outer-wrapper > .sticky-inner-wrapper
+
+stocktwits.com##AdBanner_isMobile__jdENf relative mt-1 tabletSm-up|mt-3 min-h-[50px] flex justify-center
+
 stocktwits.com###insticator-iframe
 stocktwits.com##.REGULAR.embedid-0231acdc-223d-4ee3-b401-0eda627593bc.flex-col.flex.Insticator_container__1SPhe > .leading-\[16px\].text-xs.text-tertiary-text.text-center.mx-auto.tabletSm-down\|max-w-\[300px\].Disclosure_disclosureCompact__IqWB8
 stocktwits.com###ad_sidebar_top_offset
