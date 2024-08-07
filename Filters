@@ -1,6 +1,6 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
-! Version: 15
+! Version: 16
 
 stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div:nth-child(2):has('3rd Party Ad. Not an offer or recommendation by Stocktwits. See disclosure here or remove ads.')
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__DgLIM > div > .active.sticky-outer-wrapper > .sticky-inner-wrapper
@@ -20,7 +20,11 @@ stocktwits.com##.min-w-\[82px\]
 stocktwits.com##.min-h-\[304px\].grid.SymbolPageHero_mediaContainer__ht6Wg.SymbolPageHero_fullViewContainer__4dxkj
 stocktwits.com##.ad_banner_top-0
 stocktwits.com##.my-3.leading-\[14px\].text-\[13px\].text-tertiary-text.CommunitySentiment_disclaimer__tLlAS
-stocktwits.com##.FooterAd_container__EmmTA
+
+stocktwits.com##.border-grey-900.border-t-0.border-2.overflow-hidden.flex-col.flex.StreamAnnouncement_container__qOCvu
+stocktwits.com##.text-tag-text.\!text-xs.align-center.items-center.flex-row.flex.text-sm.Breadcrumbs_container__ZfetD
+stocktwits.com##.max-w-\[500px\].w-full.items-center.justify-center.flex-row.flex.DesktopHeader_nav___J3Kw
+stocktwits.com##.dark\|border-dark-grey-5.border-light-grey-5.dark\|bg-charcoal.bg-prediction-post-bg.border-t.opacity-100.w-full.justify-center.items-center.flex-col.flex.FooterAd_container__EmmTA
 
 ! 2023-10-09 https://www.tradingview.com
 www.tradingview.com##.pc-data
