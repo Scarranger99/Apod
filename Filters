@@ -1,6 +1,6 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
-! Version: 17
+! Version: 18
 
 stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div:nth-child(2):has('3rd Party Ad. Not an offer or recommendation by Stocktwits. See disclosure here or remove ads.')
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__DgLIM > div > .active.sticky-outer-wrapper > .sticky-inner-wrapper
@@ -21,6 +21,8 @@ stocktwits.com##.min-h-\[304px\].grid.SymbolPageHero_mediaContainer__ht6Wg.Symbo
 stocktwits.com##.ad_banner_top-0
 stocktwits.com##.my-3.leading-\[14px\].text-\[13px\].text-tertiary-text.CommunitySentiment_disclaimer__tLlAS
 stocktwits.com##.MainHeader_mobileHeaderContainer___mWoe
+stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div.Body_container__f_XJ0.flex.flex-column.desktopXxl|pr-0.tabletSm-down|pb-12.Body_containerBorder__3T8GJ.border-primary-hairline.border-l.tabletSm-down|border-x-0 > div > div > div.SymbolPage_symbolPageBorder__gg8Gr.border-primary-hairline.border-r > div.flex.flex-col.justify-between.items-start.PollContainer_pollContainer__Vg8_n.relative.rounded-xl.text-st-primary-text.gap-x-4.gap-y-0.p-4.tabletSm|p-5.max-w-[620px].m-4.tabletSm|m-5.PollContainer_greyBorder__DGBJE.border.border-primary-border
+
 
 stocktwits.com##.border-grey-900.border-t-0.border-2.overflow-hidden.flex-col.flex.StreamAnnouncement_container__qOCvu
 stocktwits.com##.text-tag-text.\!text-xs.align-center.items-center.flex-row.flex.text-sm.Breadcrumbs_container__ZfetD
