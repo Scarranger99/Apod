@@ -1,6 +1,6 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
-! Version: 28
+! Version: 29
 
 stocktwits.com##.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full:style(padding-top: 0px !important;)
 stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div:nth-child(2):has('3rd Party Ad. Not an offer or recommendation by Stocktwits. See disclosure here or remove ads.')
@@ -72,3 +72,5 @@ www.commaoil.com###tabtopmenu > tbody > tr
 www.commaoil.com###centercolumn:style(width: 100% !important; max-width: 100% !important;)
 
 stocktwits.com##.border-primary-hairline.border-b.p-4.w-full.StreamMessageLatestNews_container__ivIZL.items-start.justify-between.flex-col.flex
+
+stocktwits.com##.PollContainer_greyBorder__DGBJE
