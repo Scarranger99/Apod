@@ -1,20 +1,9 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
-! Version: 29
+! Version: 30
 
-stocktwits.com##.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full:style(padding-top: 0px !important;)
-stocktwits.com##div.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full > div:nth-child(2):has('3rd Party Ad. Not an offer or recommendation by Stocktwits. See disclosure here or remove ads.')
+! STOCKTWITS
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__DgLIM > div > .active.sticky-outer-wrapper > .sticky-inner-wrapper
-stocktwits.com##.flex.flex-col.justify-between.items-start.PollContainer_greyBorder__DGBJE.border.border-primary-border
-stocktwits.com##.Sidebar_sidebarContainer-CORE1-1151__Q6v8n
-
-stocktwits.com##.AdBanner_isMobile__jdENf
-stocktwits.com##.Disclosure_disclosureCompact__7OUvM
-stocktwits.com##.Breadcrumbs_container__ZfetD
-stocktwits.com##.BottomNavigation_container__JUUUo
-stocktwits.com##.st-bottom-content
-stocktwits.com##.st-bottom-nav
-
 stocktwits.com###insticator-iframe
 stocktwits.com##.REGULAR.embedid-0231acdc-223d-4ee3-b401-0eda627593bc.flex-col.flex.Insticator_container__1SPhe > .leading-\[16px\].text-xs.text-tertiary-text.text-center.mx-auto.tabletSm-down\|max-w-\[300px\].Disclosure_disclosureCompact__IqWB8
 stocktwits.com###ad_sidebar_top_offset
@@ -23,18 +12,25 @@ stocktwits.com##.h-\[30px\].w-\[90px\].DesktopHeader_adFreeAdButton__CfP5e.hover
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__0dwk5 > div > div.sticky-outer-wrapper > .sticky-inner-wrapper > div
 stocktwits.com##.min-w-\[82px\]
 stocktwits.com##.min-h-\[304px\].grid.SymbolPageHero_mediaContainer__ht6Wg.SymbolPageHero_fullViewContainer__4dxkj
-stocktwits.com##.ad_banner_top-0
 stocktwits.com##.my-3.leading-\[14px\].text-\[13px\].text-tertiary-text.CommunitySentiment_disclaimer__tLlAS
-stocktwits.com##.MainHeader_mobileHeaderContainer___mWoe
-stocktwits.com##.MainHeader_mainHeader__L2Fez
-stocktwits.com##.Main_mainContainer-CORE1-1151__HSY7M.Main_main__3C253.min-h-screen.w-full:style(padding-top: 0px !important;)
-
 stocktwits.com##.border-grey-900.border-t-0.border-2.overflow-hidden.flex-col.flex.StreamAnnouncement_container__qOCvu
 stocktwits.com##.text-tag-text.\!text-xs.align-center.items-center.flex-row.flex.text-sm.Breadcrumbs_container__ZfetD
 stocktwits.com##.max-w-\[500px\].w-full.items-center.justify-center.flex-row.flex.DesktopHeader_nav___J3Kw
 stocktwits.com##.dark\|border-dark-grey-5.border-light-grey-5.dark\|bg-charcoal.bg-prediction-post-bg.border-t.opacity-100.w-full.justify-center.items-center.flex-col.flex.FooterAd_container__EmmTA
+stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__0dwk5 > div > div.sticky-outer-wrapper > .sticky-inner-wrapper
+stocktwits.com##.border-primary-hairline.border-b.p-4.w-full.StreamMessageLatestNews_container__ivIZL.items-start.justify-between.flex-col.flex
+stocktwits.com##.PollContainer_greyBorder__DGBJE
+stocktwits.com##.PollContainer_rainbowBorder__yeBEr
+stocktwits.com##.\!pb-0.SidebarFooter_WEB-994__QCBXA.text-sm.pb-28.pt-4.px-4.SidebarFooter_container__UUYdL
+stocktwits.com##.border-primary-hairline.border-b.py-4.relative.w-full.StreamMessageTopPosts_container__yZ_Nf.items-start.justify-between.flex-col.flex
+!stocktwits.com##.sticky-inner-wrapper
+!stocktwits.com##.gap-2\.5.max-w-\[300px\].flex-col.flex.tabletSm-down\|hidden.SymbolPage_sidebar__BMi4v > .pb-3.leading-\[16px\].text-\[10px\].text-tertiary-text.text-center.mx-auto.tabletSm-down\|max-w-\[300px\].Disclosure_disclosureCompact__7OUvM.Disclosure_disclosure__GmLV4
+!stocktwits.com##.gap-2\.5.max-w-\[300px\].flex-col.flex.tabletSm-down\|hidden.SymbolPage_sidebar__BMi4v > .justify-center.items-center.flex
+!stocktwits.com##.leading-none.z-1.w-\[300px\].min-h-\[250px\].Insticator_adClass__aZKoy.relative
+stocktwits.com##.tabletMd-down\|bg-tertiary-background.tabletMd-down\|pr-5.tabletMd-down\|pl-5.tabletSm-down\|pt-10.tabletMd-down\|mt-0.tabletMd-down\|mr-0.tabletMd-down\|ml-0.tabletMd-down\|mt-3.tabletMd-down\|m-0.SidebarUserMenu_account__uwcFK > div > div.\!text-\[15px\].MenuItem_containerWithNormalFont__mH3Cp.leading-\[16px\].text-\[13px\].text-primary-text.MenuItem_container__wlPpT > div > .cursor-pointer.rounded-full.items-center.flex.gap-x-\[8px\].h-\[36px\].MenuItem_inner__AmX3B
 
-
+! Mar 17, 2025 https://stocktwits.com
+stocktwits.com##.max-h-40.tabletSm-down\|px-4.tabletSm-down\|mt-4.overflow-hidden.ease-in-out.duration-300.transition-all.mb-4.px-5.cursor-pointer.SymbolPageMainArticle_container__zplEs
 
 ! 2023-10-09 https://www.tradingview.com
 www.tradingview.com##.pc-data
@@ -70,7 +66,3 @@ www.commaoil.com##h3
 www.commaoil.com##.topOfPage
 www.commaoil.com###tabtopmenu > tbody > tr
 www.commaoil.com###centercolumn:style(width: 100% !important; max-width: 100% !important;)
-
-stocktwits.com##.border-primary-hairline.border-b.p-4.w-full.StreamMessageLatestNews_container__ivIZL.items-start.justify-between.flex-col.flex
-
-stocktwits.com##.PollContainer_greyBorder__DGBJE
