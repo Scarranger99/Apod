@@ -1,6 +1,6 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
-! Version: 30
+! Version: 31
 
 ! STOCKTWITS
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__DgLIM > div > .active.sticky-outer-wrapper > .sticky-inner-wrapper
@@ -28,6 +28,13 @@ stocktwits.com##.border-primary-hairline.border-b.py-4.relative.w-full.StreamMes
 !stocktwits.com##.gap-2\.5.max-w-\[300px\].flex-col.flex.tabletSm-down\|hidden.SymbolPage_sidebar__BMi4v > .justify-center.items-center.flex
 !stocktwits.com##.leading-none.z-1.w-\[300px\].min-h-\[250px\].Insticator_adClass__aZKoy.relative
 stocktwits.com##.tabletMd-down\|bg-tertiary-background.tabletMd-down\|pr-5.tabletMd-down\|pl-5.tabletSm-down\|pt-10.tabletMd-down\|mt-0.tabletMd-down\|mr-0.tabletMd-down\|ml-0.tabletMd-down\|mt-3.tabletMd-down\|m-0.SidebarUserMenu_account__uwcFK > div > div.\!text-\[15px\].MenuItem_containerWithNormalFont__mH3Cp.leading-\[16px\].text-\[13px\].text-primary-text.MenuItem_container__wlPpT > div > .cursor-pointer.rounded-full.items-center.flex.gap-x-\[8px\].h-\[36px\].MenuItem_inner__AmX3B
+
+! Block the footer advertisement section
+stocktwits.com##.FooterAd_container__EmmTA
+
+! Block the bottom navigation bar
+stocktwits.com##.BottomNavigation_container__JUUUo
+
 
 ! Mar 17, 2025 https://stocktwits.com
 stocktwits.com##.max-h-40.tabletSm-down\|px-4.tabletSm-down\|mt-4.overflow-hidden.ease-in-out.duration-300.transition-all.mb-4.px-5.cursor-pointer.SymbolPageMainArticle_container__zplEs
