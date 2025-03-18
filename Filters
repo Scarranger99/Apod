@@ -1,6 +1,6 @@
 ! Title: GIT Repo: Filters
 ! My Custom Filters
-! Version: 32
+! Version: 33
 
 ! STOCKTWITS
 stocktwits.com##.z-30.relative.flex-col.flex.Sidebar_sidebarContent__DgLIM > div > .active.sticky-outer-wrapper > .sticky-inner-wrapper
@@ -35,6 +35,8 @@ stocktwits.com##.FooterAd_container__EmmTA
 ! Block the bottom navigation bar
 stocktwits.com##.BottomNavigation_container__JUUUo
 stocktwits.com##div#st-bottom-content
+
+stocktwits.com##.Pod_container__AI83J
 
 
 ! Mar 17, 2025 https://stocktwits.com
